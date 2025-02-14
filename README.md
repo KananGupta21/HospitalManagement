@@ -1,7 +1,7 @@
-🏥 Hospital Management System in C++ <br>
+# 🏥 Hospital Management System in C++ <br>
 This is a console-based Hospital Management System built using C++ and a Linked Queue data structure. The system allows hospital staff to manage patient records across multiple departments efficiently. <br>
 <br>
-#🚀 Features:
+## 🚀 Features:
 1. Add Patient:
   - Normal Patient (Added to the end of the queue).<br>
   - Critically Ill Patient (Added to the front of the queue).<br>
@@ -14,7 +14,7 @@ This is a console-based Hospital Management System built using C++ and a Linked 
   - Lung Clinic <br>
   - Plastic Surgery <br>
   <br>
-#🛠️ Technologies Used: <br>
+## 🛠️ Technologies Used: <br>
 1. Language: C++ <br>
 2. Data Structure: Linked Queue <br>
 3. Development Environment: Any C++ Compiler (g++, Dev-C++, Code::Blocks, etc.)
