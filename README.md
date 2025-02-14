@@ -14,7 +14,7 @@ This is a console-based Hospital Management System built using C++ and a Linked 
   - Lung Clinic <br>
   - Plastic Surgery <br>
   <br>
-## 🛠️ Technologies Used:
+### 🛠️ Technologies Used:
 1. Language: C++ <br>
 2. Data Structure: Linked Queue <br>
 3. Development Environment: Any C++ Compiler (g++, Dev-C++, Code::Blocks, etc.)
